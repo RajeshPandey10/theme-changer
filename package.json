@@ -1,6 +1,6 @@
 {
   "name": "@rajace2005/theme-changer",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "src/index.js",
   "module": "src/index.mjs",
   "types": "src/index.d.ts",
