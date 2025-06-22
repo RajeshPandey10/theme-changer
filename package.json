@@ -1,6 +1,6 @@
 {
-  "name": "theme-changer",
-  "version": "1.0.0",
+  "name": "@rajace2005/theme-changer",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
