@@ -1,0 +1,42 @@
+{
+  "name": "theme-changer",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "react",
+    "theme",
+    "dark-mode",
+    "light-mode",
+    "toggle",
+    "theme-provider",
+    "react-component"
+  ],
+  "author": "Rajesh Pandey",
+  "license": "ISC",
+  "description": "A simple, lightweight and easy-to-use React component to add dark and light theme toggling to your application.",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RajeshPandey10/theme-changer"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "typescript": "^5.8.3"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
